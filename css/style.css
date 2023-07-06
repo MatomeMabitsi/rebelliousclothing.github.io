@@ -174,8 +174,13 @@
         position: absolute;
         width: 150%;
         height: 150%;
-        object-fit: cover;
+        object-fit:fill;
     }
+}
+
+.img-fluid2{
+    height: 600px;
+    width: 600px;
 }
 
 .page-header {
